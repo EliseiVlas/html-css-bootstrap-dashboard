@@ -13,17 +13,33 @@
 img{
     height: 65px;
 }
+/* info main */
 main{
-    display: flex;
-    justify-content: center;
+   
+
 }
 .main{
-    width: 70%;
+    width: 95%;
     align-content: center;
-    background-color: aqua;
+    
+    
 }
 .text{
     display: flex;
     justify-content: end;
-    align-items: end;
+    align-items: center;
+}
+.container1{
+    padding: 15px 0px;
+}
+.spazio{
+   display: flex;
+   justify-content: center;
+   gap: 3px;
+   
+}
+.spazio1{
+    display: flex;
+    justify-content: center;
+    padding-right: 10px;
 }
